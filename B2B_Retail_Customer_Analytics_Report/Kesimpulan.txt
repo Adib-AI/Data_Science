@@ -1,0 +1,16 @@
+Kesimpulan : Pertambahan sustomers di xyz.com mengalami penurunan di Q2 yang didasarkan jumlah customers di Q1 dan Q2 yang bernilai 
+Q1 : 43
+Q2 : 35
+yang mengalami jumlah penurunan sekitar 19%
+dan dari jumlah customers di Q1 dan Q2, hanya sekitar 56% yang melakukan transaksi di xyz.com
+Sehingga xyz.com harus mempelajari kemauan dari customer yang bisa didasarkan dari segi marketing dan improvement product yang diinginkan seperti 
+categoryid S18 dan S24 yang menyumbangkan hampir 60% terjual dari penjualan di xyz.com			
+			
+			
+			
+			
+			
+			
+			
+			
+			
