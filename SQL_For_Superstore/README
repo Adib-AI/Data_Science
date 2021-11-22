@@ -1,0 +1,10 @@
+Pada Dataset kali saya menggunakan dataset superstore yang saya dapatkan dari Kaggle. 
+Terdapat dua table yang terdiri dari customer_final dan superstore_final yang masing terdiri dari 199 rows.
+
+A.	customer_final memiliki 4 kolom
+B.	superstore_final memiliki 18 kolom
+
+Terdapat 3 hal yang saya lakukan
+I. Hal yang pertama saya lakukan adalah, berapa jumlah customer yang terdapat pada setiap kota?
+II. Menghitung jumlah order per kota dengan jumlah duplikasi customer dan tanpa duplikasi customer
+III. Menemukan tanggal pertama order pada setiap customer
