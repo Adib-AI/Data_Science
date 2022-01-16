@@ -1,0 +1,31 @@
+Dataset  di dapatkan dari Kaggle dengan Judul "Premier League All Time Top 50 Goal Scorers"
+Link : https://www.kaggle.com/bazbabar/premier-league-all-time-top-50-goal-scorers
+
+Pada Dataset ini, sekitar 60-70 % saya melakukan EDA (Exploratory Data Analisis) yang mengggunakan library
+1. Pandas (Memanggil data dan dataframe serta info dari dataset yang ada)
+2. Numpy (Perhitungan data)
+3. Matploblib (Visualisasi)
+4. Seaborn (Visualisasi untuk melakukan korelasi antar tiap label/fields/kolum)
+
+Dari Tahap EDA ini saya melakukan antara lain sebagai berikut :
+1. Cek dataset berdasarkan dari baris dan kolumnya
+2. Cek Missing Values/NaN/Tidak berisi Nilai dari setiap kolomm menggunakan formula "isnull"
+3. Mengecek tipe data dari setiap kolum
+4. Mengecek statistik dari setiap kolom pada dataset menggunakan "describe"
+5. Mengecek korelasi tertinggi dimana acuan 1 kolum saya gunakan adalah "Goals", karena saya ingin melihat tingkat Gol berdasar field yang tidak terikat/bebas
+  a. Korelasi yang saya gunakan  >= 0.4 (untuk mengarah mendekati 1) dan >= -0.2 (Mendekati -1, meskipun masih tergolong kecil dengan batasan yang saya buat. Namun, korelasi 
+  tertinggi adalah -0.29)
+6. Mengecek nilai unik dalam setiap kolom
+7. Mengubah values dari data yang mengangggu hasil analisis nantinya (Bisa dicek dibagian pemain)
+
+Setelah melakukan tahap EDA, saya melakukan tahap visualisasi menggunakan
+1. Bar Histogram
+2. Pie Chart
+3. Histogram
+
+
+Kesimpulan yang didapatkan dari dataset menurut saya adaalah :
+1. Goal Tertinggi dilakukan oleh Pemain Alan Shearter yang berasal dari United Kingdom dan Terendah Chris Sutton dari England
+2. Pemain dengan posisi forward melakukan goal lebih banyak daripada pemain yang posisi Midfielder, dengan perbandingan 5:1
+3. Dominasi negara asal dipegang oleh negara United Kingdom
+4. Goals terbanyak tergantung dari peforma pemain dimana Alan Shearter menjadi goals terbanyak dikarenakan peformanya juga tertinggi dari pemain lain
