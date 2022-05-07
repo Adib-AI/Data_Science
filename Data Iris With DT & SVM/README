@@ -1,0 +1,11 @@
+Pada file ini berisi:
+1. Decision Tree Classifier
+2. SVM With Kernel Linear
+3. Dataset Iris (Multilabel)
+
+Library : Numpy, Pandas, Seaborn, Matplotlib, Sklearn Grpahviz
+
+IDE : Jupyter Notebook
+
+
+Selamat Membaca
