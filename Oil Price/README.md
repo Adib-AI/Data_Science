@@ -16,3 +16,4 @@ Hipotesis kemungkinan cukup buruknya model yang dihasilkan :
   
 Saran :
   * Bisa menggunakan metode lain untuk memperbaiki data
+ 
