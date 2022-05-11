@@ -12,7 +12,7 @@ Hasil data predict kedua algortima,
 
 Hipotesis kemungkinan cukup buruknya model yang dihasilkan :
   * Penggunaan metode modus dan mean yang tidak cocok untuk mengisi data bersifat NaN
-  * Mehasilkan nilai bias dari penggunan dua metode diatas
+  * Menghasilkan nilai bias dari penggunan dua metode diatas
   
 Saran :
   * Bisa menggunakan metode lain untuk memperbaiki data
