@@ -17,3 +17,5 @@ Tool used :
      * graphviz
 
 Evalution model menggunakan confusion matrix
+
+Semangat
