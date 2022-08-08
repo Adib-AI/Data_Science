@@ -1,0 +1,6 @@
+Indonesia sebagai negara berkembang memiliki banyak parameter yang berkaitan mengenai stabilitas perkonomian maupun keuangan. 
+Parameter yang bekaitan tersebut salah satunya adalah pendapatan e-commerce. Pada penelitian yang dilakukan Rianty dan Rahayu dengan judul [Pengaruh E-commerce Terhadap Pendapatan UMKM Yang Bermitra Gojek Dalam Masa Pandemi Covid-19](https://akuntansi.pnp.ac.id/jam/index.php/jam/article/download/159/115/), 
+menyatakan bahwa e-commerce memiliki pendapatan yang baik bagi negara khususnya dari segi UMKM dengan peningkatan total transaksi hingga 5%.
+Peningkatan yang cukup tinggi, pada permasalahan ini penulis ingin mengetahui bagaimana pendapatan e-commerce dari parameter penggunaaan sistem dan lamanya membership terhadap pendapatan e-commerce dengan menggunakan model machine learning classic menggunakan *support vector regression* 
+yang merupakan kembangan *support vector machine* yang diperkenalkan oleh Vapnik pada tahun 1992. 
+Pada penelitian [Support Vector Regression (SVR) Dalam Memprediksi Harga Minyak Kelapa Sawit di Indonesia dan Nilai Tukar Mata Uang EUR/USD](http://jcosine.if.unram.ac.id/index.php/jcosine/article/download/403/79/) yang dilakukan oleh Saadah, dkk pada tahun 2021 menghasilkan akurasi yang hampir mendekati 100% Terumata pada penggunaan kernel RBF.
