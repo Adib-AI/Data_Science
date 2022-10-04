@@ -1,1 +1,0 @@
-# Advanced Select HanckerRank SQL
